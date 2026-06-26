@@ -1,0 +1,2 @@
+actual_fraud_count,system_flagged_count,caught_fraud_count,actual_fraud_loss,caught_fraud_loss,detection_rate
+8213,16,16,12056415427.84,77785563.69,0.19

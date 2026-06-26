@@ -1,0 +1,7 @@
+amount_bucket,isFraud,txn_count
+High,0,2830816
+High,1,6506
+Low,0,1285725
+Low,1,278
+Medium,0,2237866
+Medium,1,1429

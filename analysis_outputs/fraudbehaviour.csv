@@ -1,0 +1,3 @@
+isFraud,total_transactions,avg_amount,min_amount,max_amount,avg_balance_drop,zero_balance_cases,zero_balance_rate
+0,6354407,178197.041727,0.01,92445516.64,-23141.516382,3601513,56.68
+1,8213,1467967.299140,0.00,10000000.00,1457274.973876,8053,98.05
